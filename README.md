@@ -1,2 +1,3 @@
-# notepad-performance-tests
-Performance tests, written in Gatling, with Scala language
+# Notepad Performance Test
+
+![Book Cover](/images/continuous-delivery-java-apps.png)
